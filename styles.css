@@ -91,3 +91,9 @@ body {
     padding: 1rem;
     background-color: var(--primary_color);
 }
+
+.source{
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--gray);
+}
