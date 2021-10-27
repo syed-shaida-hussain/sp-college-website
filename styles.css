@@ -23,6 +23,11 @@ body {
     color: var(--primary_color);
 } 
 
+.header2{
+    float: right;
+}
+
+
 .list-item{
     list-style: none;
     color: var(--primary_color);
@@ -95,5 +100,7 @@ body {
 .source{
     text-align: center;
     padding: 2rem;
-    background-color: var(--gray);
+    font-weight: 600;
+    font-size: 1.6rem;
+    background-color: aliceblue
 }
